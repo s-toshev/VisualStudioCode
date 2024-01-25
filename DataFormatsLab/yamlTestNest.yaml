@@ -1,0 +1,11 @@
+productID: laptop 123
+price: 1200
+properties:
+  cpu: i7
+  mem: 16GB
+reviews:
+  - author: John Wick
+      comment: top product!
+  - author: Jane
+      comment: avg performance.
+

@@ -1,0 +1,8 @@
+{
+"name": "Banana",
+"price": 4.99,
+"isAvailable": true,
+"description": "tropical",
+"tags": ["food","tropical", "fruit"],
+"owner": null
+}
