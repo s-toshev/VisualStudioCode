@@ -1,12 +1,13 @@
 {
   "name": "install",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "sum.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
-  "author": "",
+  "author": "Simeon",
   "license": "ISC",
   "dependencies": {
     "chai": "^5.0.3",
